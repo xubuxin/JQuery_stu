@@ -1,1 +1,1 @@
-# JQuery_stu
+# jQuery_stu
